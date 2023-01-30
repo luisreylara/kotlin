@@ -6,6 +6,11 @@ all about my kotlin projects
 
 ![alt text](constanciakotlin1.png)
 
+## 29-06-2020
+* [Android y kotlin desde cero hasta profesional](https://github.com/luisreylara/kotlin/blob/main/curso2kotlin.png)
+
+![alt text](curso2kotlin.png)
+
 ```
 
 
